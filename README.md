@@ -35,5 +35,5 @@ Verify specific goal checkbox with a specific group, specific level, and observe
 Verify unobserve specific goal checkbox with a specific group and a specific level and observed checkbox: This test case tests the behavior when the user selects a specific goal, selects a specific group, selects a specific level, unchecks the "not observed" checkbox, applies filters, and then performs an unobservation.
 
 
-https://github.com/william94411/CybressHW/assets/77400199/c216881e-b17c-4195-b994-6bcb0aeccd55
+https://www.youtube.com/watch?v=o2gYi5F9ABk&feature=youtu.be
 
