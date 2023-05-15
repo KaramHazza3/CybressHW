@@ -1,0 +1,15 @@
+{
+  "name": "cybresshw",
+  "version": "1.0.0",
+  "description": "10 test cases by me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
